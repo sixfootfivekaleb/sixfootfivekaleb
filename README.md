@@ -65,18 +65,42 @@
 
 </div>
 
-<br/>
+<!-- ═══ Metrics HUD ═══ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+    <img width="100%" src="assets/divider-dark.svg" alt="" />
+  </picture>
+</div>
 
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sixfootfivekaleb&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" height="180" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=sixfootfivekaleb&theme=github-dark-blue&hide_border=true" height="180" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=sixfootfivekaleb&show_icons=true&bg_color=00000000&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5&hide_border=true&count_private=true" height="180" alt="stats" />
+<img src="https://streak-stats.demolab.com?user=sixfootfivekaleb&background=00000000&ring=539BF5&fire=7C3AED&currStreakLabel=539BF5&sideLabels=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7&dates=636E7B&hide_border=true" height="180" alt="streak" />
 </div>
 
-<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+    <img width="100%" src="assets/divider-dark.svg" alt="" />
+  </picture>
+</div>
 
-### Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sixfootfivekaleb&bg_color=00000000&color=ADBAC7&line=539BF5&point=7C3AED&area=true&area_color=539BF5&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
+    <img width="100%" src="assets/divider-dark.svg" alt="" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>

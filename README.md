@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,161B22&height=180&section=header&text=&fontSize=0" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:539BF5,50:7C3AED,100:E040FB&height=220&section=header&text=&fontSize=0" alt="" />
 
 <div align="center">
 
@@ -65,42 +65,24 @@
 
 </div>
 
-<!-- ═══ Metrics HUD ═══ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
-    <img width="100%" src="assets/divider-dark.svg" alt="" />
-  </picture>
-</div>
+<br/>
 
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sixfootfivekaleb&show_icons=true&bg_color=00000000&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5&hide_border=true&count_private=true" height="180" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=sixfootfivekaleb&background=00000000&ring=539BF5&fire=7C3AED&currStreakLabel=539BF5&sideLabels=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7&dates=636E7B&hide_border=true" height="180" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=sixfootfivekaleb&show_icons=true&bg_color=0D1117&title_color=539BF5&text_color=ADBAC7&icon_color=7C3AED&border_color=30363D&border_radius=12&count_private=true" height="180" alt="stats" />
+<img src="https://streak-stats.demolab.com?user=sixfootfivekaleb&background=0D1117&ring=539BF5&fire=7C3AED&currStreakLabel=539BF5&sideLabels=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7&dates=636E7B&stroke=30363D&border=30363D" height="180" alt="streak" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
-    <img width="100%" src="assets/divider-dark.svg" alt="" />
-  </picture>
-</div>
+<br/>
+
+### Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sixfootfivekaleb&bg_color=00000000&color=ADBAC7&line=539BF5&point=7C3AED&area=true&area_color=539BF5&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/539BF5/sixfootfivekaleb" width="100%" alt="contribution graph" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
-    <img width="100%" src="assets/divider-dark.svg" alt="" />
-  </picture>
-</div>
+<br/>
 
 <div align="center">
   <picture>
@@ -110,4 +92,4 @@
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,161B22&height=120&section=footer&text=&fontSize=0" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:539BF5,50:7C3AED,100:E040FB&height=120&section=footer&text=&fontSize=0" alt="" />

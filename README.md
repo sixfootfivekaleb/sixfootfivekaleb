@@ -46,10 +46,5 @@
 
 <br/>
 
-### Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/sixfootfivekaleb" width="90%" alt="contribution graph" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="" />

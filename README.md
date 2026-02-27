@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey%2C+I'm+Kaleb+%F0%9F%91%8B;Building+things+that+shouldn't+exist+yet." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey%2C+I'm+Kaleb+%F0%9F%91%8B;Student+interested+in+applied+AI+%26+entrepreneurship." alt="Typing SVG" /></a>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=D9BED1&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Full-Stack+Engineer;ML+Tools+Builder;Crypto+Analytics;Real-Time+Systems" alt="Roles" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=D9BED1&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Full-Stack+Engineer;WashU+Student;Poet;Pickleball+Player" alt="Roles" /></a>
 
 </div>
 

@@ -85,7 +85,7 @@
           <div class="ln"><span class="i1"><span class="k">"stack"</span>: <span class="b">{</span></span></div>
           <div class="ln"><span class="i2"><span class="k">"languages"</span>: [<span class="v">"Python"</span>, <span class="v">"TypeScript"</span>],</span></div>
           <div class="ln"><span class="i2"><span class="k">"frontend"</span>: [<span class="v">"React"</span>, <span class="v">"Next.js"</span>, <span class="v">"Tailwind"</span>],</span></div>
-          <div class="ln"><span class="i2"><span class="k">"backend"</span>: [<span class="v">"FastAPI"</span>, <span class="v">"Socket.IO"</span>, <span class="v">"Redis"</span>],</span></div>
+          <div class="ln"><span class="i2"><span class="k">"backend"</span>: [<span class="v">"FastAPI"</span>, <span class="v">"Supabase"</span>, <span class="v">"Redis"</span>],</span></div>
           <div class="ln"><span class="i2"><span class="k">"ml"</span>: [<span class="v">"PyTorch"</span>, <span class="v">"DistilBERT"</span>],</span></div>
           <div class="ln"><span class="i2"><span class="k">"databases"</span>: [<span class="v">"PostgreSQL"</span>, <span class="v">"MongoDB"</span>],</span></div>
           <div class="ln"><span class="i2"><span class="k">"infra"</span>: [<span class="v">"Docker"</span>]</span></div>

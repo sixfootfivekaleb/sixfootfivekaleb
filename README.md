@@ -22,7 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=py,ts,react,next,fastapi,pytorch&theme=dark&perline=6" alt="row 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,socketio,tailwind&theme=dark&perline=6" alt="row 2" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,supabase,tailwind&theme=dark&perline=6" alt="row 2" />
 
 </div>
 

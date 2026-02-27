@@ -36,11 +36,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=sixfootfivekaleb&show_icons=true&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&border_radius=10&count_private=true" width="500" alt="stats" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sixfootfivekaleb&background=0D1117&ring=539BF5&fire=D9BED1&currStreakLabel=539BF5&sideLabels=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7&dates=636E7B&stroke=30363D&border=30363D" width="500" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=sixfootfivekaleb&background=0D1117&ring=539BF5&fire=D9BED1&currStreakLabel=539BF5&sideLabels=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7&dates=636E7B&stroke=30363D&border=30363D&hide_current_streak=true" width="500" alt="streak" />
 
 </div>
 

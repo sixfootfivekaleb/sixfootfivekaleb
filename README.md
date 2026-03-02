@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D9BED1&center=true&vCenter=true&repeat=true&width=700&height=30&lines=WashU+Student+interested+in+applied+AI+%26+entrepreneurship." alt="Bio" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D9BED1&center=true&vCenter=true&repeat=true&width=700&height=30&lines=WashU+Student+Interested+In+Applied+AI+%26+Entrepreneurship." alt="Bio" /></a>
 
 </div>
 

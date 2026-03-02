@@ -6,11 +6,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D9BED1&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Full-Stack+Engineer;WashU+Student;Poet;Pickleball+Player" alt="Roles" /></a>
-
-<br/>
-
-`Student interested in applied AI & entrepreneurship.`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D9BED1&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Student+interested+in+applied+AI+%26+entrepreneurship." alt="Bio" /></a>
 
 </div>
 
